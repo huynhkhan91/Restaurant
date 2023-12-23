@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOCK.BUS", "HOCK.BUS\HOCK.BUS.csproj", "{13977FAE-5319-401C-9E3F-82D83B354D76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOCK.DAL", "HOCK.DAL\HOCK.DAL.csproj", "{9BFEE8DF-909F-43A6-B2B1-7C0C42CABA2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOCK.GUI", "HOCK.GUI\HOCK.GUI.csproj", "{5B8E327A-2530-40EC-8A30-CB021505A164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13977FAE-5319-401C-9E3F-82D83B354D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13977FAE-5319-401C-9E3F-82D83B354D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13977FAE-5319-401C-9E3F-82D83B354D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13977FAE-5319-401C-9E3F-82D83B354D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BFEE8DF-909F-43A6-B2B1-7C0C42CABA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFEE8DF-909F-43A6-B2B1-7C0C42CABA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFEE8DF-909F-43A6-B2B1-7C0C42CABA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFEE8DF-909F-43A6-B2B1-7C0C42CABA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8E327A-2530-40EC-8A30-CB021505A164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8E327A-2530-40EC-8A30-CB021505A164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8E327A-2530-40EC-8A30-CB021505A164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8E327A-2530-40EC-8A30-CB021505A164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA383DF-A6ED-44EA-BD3E-875F0ADFABF8}
+	EndGlobalSection
+EndGlobal
